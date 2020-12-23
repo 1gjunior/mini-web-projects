@@ -6,12 +6,15 @@ Mini projetos web utilizando apenas HTML, CSS E Vanilla JS
 
 Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 
-- [Projeto 01 - Expanding Cards](#id01)
-- [Projeto 02 - Progress Steps](#id02)
-- [Projeto 03 - Rotating Navigation](#id03)
-- [Projeto 04 - Hidden Search Widget](#id04)
-- [Projeto 05 - Blurry Loading](#id05)
-- [Projeto 06 - Scroll Animation](#id06)
+- [Mini Web Projects](#mini-web-projects)
+  - [Objetivos](#objetivos)
+  - [Projeto 01 - Expanding Cards <a name="id01"></a>](#projeto-01---expanding-cards-)
+  - [Projeto 02 - Progress Steps <a name="id02"></a>](#projeto-02---progress-steps-)
+  - [Projeto 03 - Rotating Navigation <a name="id03"></a>](#projeto-03---rotating-navigation-)
+  - [Projeto 04 - Hidden Search Widget <a name="id04"></a>](#projeto-04---hidden-search-widget-)
+  - [Projeto 05 - Blurry Loading <a name="id05"></a>](#projeto-05---blurry-loading-)
+  - [Projeto 06 - Scroll Animation <a name="id06"></a>](#projeto-06---scroll-animation-)
+  - [Projeto 07 - Scroll Animation <a name="id07"></a>](#projeto-07---scroll-animation-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -36,3 +39,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 06 - Scroll Animation <a name="id06"></a>
 
 ![Projeto 06](./scroll-animation/assets/scroll-animation.gif)
+
+## Projeto 07 - Scroll Animation <a name="id07"></a>
+
+![Projeto 07](./split-landing-page/assets/split-landing-page.gif)
