@@ -11,6 +11,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 - [Projeto 03 - Rotating Navigation](#id03)
 - [Projeto 04 - Hidden Search Widget](#id04)
 - [Projeto 05 - Blurry Loading](#id05)
+- [Projeto 06 - Scroll Animation](#id06)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -31,3 +32,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 05 - Blurry Loading <a name="id05"></a>
 
 ![Projeto 05](./blurry-loading/assets/blurry-loading.gif)
+
+## Projeto 06 - Scroll Animation <a name="id06"></a>
+
+![Projeto 06](./scroll-animation/assets/scroll-animation.gif)
