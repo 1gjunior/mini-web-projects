@@ -18,7 +18,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
-![Projeto 01](./expanding-cards/assets/expandingcards.gif)
+![Projeto 01](./expanding-cards/assets/expanding-cards.gif)
 
 ## Projeto 02 - Progress Steps <a name="id02"></a>
 
