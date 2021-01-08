@@ -19,6 +19,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 09 - Sound Board <a name="id09"></a>](#projeto-09---sound-board-)
   - [Projeto 10 - Dad Jokes <a name="id10"></a>](#projeto-10---dad-jokes-)
   - [Projeto 11 - Event KeyCodes <a name="id11"></a>](#projeto-11---event-keycodes-)
+  - [Projeto 12 - FAQ Collapse <a name="id12"></a>](#projeto-12---faq-collapse-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -63,3 +64,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 11 - Event KeyCodes <a name="id11"></a>
 
 ![Projeto 11](./event-keycodes/assets/event.keycodes.gif)
+
+## Projeto 12 - FAQ Collapse <a name="id12"></a>
+
+![Projeto 12](./faq-collapse/assets/faq-collapse.gif)
