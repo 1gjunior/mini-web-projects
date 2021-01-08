@@ -18,6 +18,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 08 - Form Wave Animation <a name="id08"></a>](#projeto-08---form-wave-animation-)
   - [Projeto 09 - Sound Board <a name="id09"></a>](#projeto-09---sound-board-)
   - [Projeto 10 - Dad Jokes <a name="id10"></a>](#projeto-10---dad-jokes-)
+  - [Projeto 11 - Event KeyCodes <a name="id11"></a>](#projeto-11---event-keycodes-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -58,3 +59,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 10 - Dad Jokes <a name="id10"></a>
 
 ![Projeto 10](./dad-jokes/assets/dad-jokes.gif)
+
+## Projeto 11 - Event KeyCodes <a name="id11"></a>
+
+![Projeto 11](./event-keycodes/assets/event.keycodes.gif)
