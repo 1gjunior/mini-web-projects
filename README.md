@@ -21,6 +21,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 11 - Event KeyCodes <a name="id11"></a>](#projeto-11---event-keycodes-)
   - [Projeto 12 - FAQ Collapse <a name="id12"></a>](#projeto-12---faq-collapse-)
   - [Projeto 13 - Random Choice Picker <a name="id13"></a>](#projeto-13---random-choice-picker-)
+  - [Projeto 14 - Animated Navigation <a name="id14"></a>](#projeto-14---animated-navigation-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -73,3 +74,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 13 - Random Choice Picker <a name="id13"></a>
 
 ![Projeto 13](./random-choice-picker/assets/random-choice-picker.gif)
+
+## Projeto 14 - Animated Navigation <a name="id14"></a>
+
+![Projeto 14](./animated-navigation/assets/animated-navigation.gif)
