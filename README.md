@@ -23,6 +23,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 13 - Random Choice Picker <a name="id13"></a>](#projeto-13---random-choice-picker-)
   - [Projeto 14 - Animated Navigation <a name="id14"></a>](#projeto-14---animated-navigation-)
   - [Projeto 15 - Increment Counter <a name="id15"></a>](#projeto-15---increment-counter-)
+  - [Projeto 16 - Drink Water <a name="id16"></a>](#projeto-16---drink-water-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -83,3 +84,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 15 - Increment Counter <a name="id15"></a>
 
 ![Projeto 15](./increment-counter/assets/increment-counter.gif)
+
+## Projeto 16 - Drink Water <a name="id16"></a>
+
+![Projeto 16](./drink-water/assets/drink-water.gif)
