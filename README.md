@@ -26,6 +26,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 16 - Drink Water <a name="id16"></a>](#projeto-16---drink-water-)
   - [Projeto 17 - Movie App <a name="id17"></a>](#projeto-17---movie-app-)
   - [Projeto 18 - Background Slider <a name="id18"></a>](#projeto-18---background-slider-)
+  - [Projeto 19 - Theme Clock <a name="id19"></a>](#projeto-19---theme-clock-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -98,3 +99,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 18 - Background Slider <a name="id18"></a>
 
 ![Projeto 18](./background-slider/assets/background-slider.gif)
+
+## Projeto 19 - Theme Clock <a name="id19"></a>
+
+![Projeto 19](./theme-clock/assets/theme-clock.gif)
