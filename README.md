@@ -27,6 +27,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 17 - Movie App <a name="id17"></a>](#projeto-17---movie-app-)
   - [Projeto 18 - Background Slider <a name="id18"></a>](#projeto-18---background-slider-)
   - [Projeto 19 - Theme Clock <a name="id19"></a>](#projeto-19---theme-clock-)
+  - [Projeto 20 - Button Ripple Effect <a name="id20"></a>](#projeto-20---button-ripple-effect-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -103,3 +104,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 19 - Theme Clock <a name="id19"></a>
 
 ![Projeto 19](./theme-clock/assets/theme-clock.gif)
+
+## Projeto 20 - Button Ripple Effect <a name="id20"></a>
+
+![Projeto 20](./button-ripple-effect/assets/button-ripple-effect.gif)
