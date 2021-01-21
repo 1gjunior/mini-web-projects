@@ -29,6 +29,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 19 - Theme Clock <a name="id19"></a>](#projeto-19---theme-clock-)
   - [Projeto 20 - Button Ripple Effect <a name="id20"></a>](#projeto-20---button-ripple-effect-)
   - [Projeto 21 - Drag N Drop <a name="id21"></a>](#projeto-21---drag-n-drop-)
+  - [Projeto 22 - Drawing App <a name="id22"></a>](#projeto-22---drawing-app-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -113,3 +114,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 21 - Drag N Drop <a name="id21"></a>
 
 ![Projeto 21](./drag-n-drop/assets/drag-n-drop.gif)
+
+## Projeto 22 - Drawing App <a name="id22"></a>
+
+![Projeto 22](./drawing-app/assets/drawing-app.gif)
