@@ -30,6 +30,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 20 - Button Ripple Effect <a name="id20"></a>](#projeto-20---button-ripple-effect-)
   - [Projeto 21 - Drag N Drop <a name="id21"></a>](#projeto-21---drag-n-drop-)
   - [Projeto 22 - Drawing App <a name="id22"></a>](#projeto-22---drawing-app-)
+  - [Projeto 23 - Kinetic Loader <a name="id23"></a>](#projeto-23---kinetic-loader-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -118,3 +119,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 22 - Drawing App <a name="id22"></a>
 
 ![Projeto 22](./drawing-app/assets/drawing-app.gif)
+
+## Projeto 23 - Kinetic Loader <a name="id23"></a>
+
+![Projeto 23](./kinetic-loader/assets/kinetic-loader.gif)
