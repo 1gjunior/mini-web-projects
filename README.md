@@ -33,6 +33,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 23 - Kinetic Loader <a name="id23"></a>](#projeto-23---kinetic-loader-)
   - [Projeto 24 - Content Placeholder <a name="id24"></a>](#projeto-24---content-placeholder-)
   - [Projeto 25 - Sticky Navbar <a name="id25"></a>](#projeto-25---sticky-navbar-)
+  - [Projeto 26 - Vertical Slider <a name="id26"></a>](#projeto-26---vertical-slider-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -133,3 +134,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 25 - Sticky Navbar <a name="id25"></a>
 
 ![Projeto 25](./sticky-navbar/assets/sticky-navbar.gif)
+
+## Projeto 26 - Vertical Slider <a name="id26"></a>
+
+![Projeto 26](./vertical-slider/assets/vertical-slider.gif)
