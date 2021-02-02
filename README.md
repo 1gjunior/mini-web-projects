@@ -35,6 +35,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 25 - Sticky Navbar <a name="id25"></a>](#projeto-25---sticky-navbar-)
   - [Projeto 26 - Vertical Slider <a name="id26"></a>](#projeto-26---vertical-slider-)
   - [Projeto 27 - Toast Notification <a name="id27"></a>](#projeto-27---toast-notification-)
+  - [Projeto 28 - Github Profiles <a name="id28"></a>](#projeto-28---github-profiles-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -143,3 +144,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 27 - Toast Notification <a name="id27"></a>
 
 ![Projeto 27](./toast-notification/assets/toast-notification.gif)
+
+## Projeto 28 - Github Profiles <a name="id28"></a>
+
+![Projeto 28](./github-profiles/assets/github-profiles.gif)
