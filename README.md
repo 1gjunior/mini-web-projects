@@ -36,6 +36,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 26 - Vertical Slider <a name="id26"></a>](#projeto-26---vertical-slider-)
   - [Projeto 27 - Toast Notification <a name="id27"></a>](#projeto-27---toast-notification-)
   - [Projeto 28 - Github Profiles <a name="id28"></a>](#projeto-28---github-profiles-)
+  - [Projeto 29 - Double Click Heart <a name="id29"></a>](#projeto-29---double-click-heart-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -148,3 +149,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 28 - Github Profiles <a name="id28"></a>
 
 ![Projeto 28](./github-profiles/assets/github-profiles.gif)
+
+## Projeto 29 - Double Click Heart <a name="id29"></a>
+
+![Projeto 29](./double-click-heart/assets/double-click-heart.gif)
