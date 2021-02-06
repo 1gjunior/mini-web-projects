@@ -38,6 +38,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 28 - Github Profiles <a name="id28"></a>](#projeto-28---github-profiles-)
   - [Projeto 29 - Double Click Heart <a name="id29"></a>](#projeto-29---double-click-heart-)
   - [Projeto 30 - Auto Text Effect <a name="id30"></a>](#projeto-30---auto-text-effect-)
+  - [Projeto 31 - Password Generator <a name="id31"></a>](#projeto-31---password-generator-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -158,3 +159,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 30 - Auto Text Effect <a name="id30"></a>
 
 ![Projeto 30](./auto-text-effect/assets/auto-text-effect.gif)
+
+## Projeto 31 - Password Generator <a name="id31"></a>
+
+![Projeto 31](./password-generator/assets/password-generator.gif)
