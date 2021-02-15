@@ -39,6 +39,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 29 - Double Click Heart <a name="id29"></a>](#projeto-29---double-click-heart-)
   - [Projeto 30 - Auto Text Effect <a name="id30"></a>](#projeto-30---auto-text-effect-)
   - [Projeto 31 - Password Generator <a name="id31"></a>](#projeto-31---password-generator-)
+  - [Projeto 32 - Checkboxes <a name="id32"></a>](#projeto-32---checkboxes-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -163,3 +164,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 31 - Password Generator <a name="id31"></a>
 
 ![Projeto 31](./password-generator/assets/password-generator.gif)
+
+## Projeto 32 - Checkboxes <a name="id32"></a>
+
+![Projeto 32](./checkboxes/assets/checkboxes.gif)
