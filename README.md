@@ -40,6 +40,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
   - [Projeto 30 - Auto Text Effect <a name="id30"></a>](#projeto-30---auto-text-effect-)
   - [Projeto 31 - Password Generator <a name="id31"></a>](#projeto-31---password-generator-)
   - [Projeto 32 - Checkboxes <a name="id32"></a>](#projeto-32---checkboxes-)
+  - [Projeto 33 - Notes App <a name="id33"></a>](#projeto-33---notes-app-)
 
 ## Projeto 01 - Expanding Cards <a name="id01"></a>
 
@@ -168,3 +169,7 @@ Melhorar minhas skills em HTML, CSS e Vanilla JS por meio de pequenos projetos.
 ## Projeto 32 - Checkboxes <a name="id32"></a>
 
 ![Projeto 32](./checkboxes/assets/checkboxes.gif)
+
+## Projeto 33 - Notes App <a name="id33"></a>
+
+![Projeto 33](./notes-app/assets/notes-app.gif)
